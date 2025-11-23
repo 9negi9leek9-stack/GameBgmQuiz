@@ -496,5 +496,11 @@
     "title": "KABUKI CHANBARA -引導-",
     "src": "audio/KABUKI CHANBARA -Final Words-.mp3",
     "volume": 0.35
+  },
+  {
+    "game": "ゆめにっき",
+    "title": "モノ子",
+    "src": "audio/Monoko.mp3",
+    "volume": 0.5
   }
 ]
